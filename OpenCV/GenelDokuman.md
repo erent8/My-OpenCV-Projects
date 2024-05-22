@@ -1,5 +1,4 @@
 
-Tabii, OpenCV kütüphanesi için hazırlanan ders notlarını konu başlıklarına göre detaylandırarak sunuyorum. Bu notlar, OpenCV'nin temel özelliklerinden ileri düzey görüntü işleme tekniklerine kadar geniş bir yelpazeyi kapsayacak şekilde düzenlenmiştir.
 
 ### 1. Giriş
 #### OpenCV Nedir?
